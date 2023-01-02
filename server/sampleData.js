@@ -40,7 +40,7 @@ const clients = [
     },
     {
         id: '2',
-        name : 'Evenlina Linn',
+        name : 'Evalina Linn',
         email: 'elinn@gmail.com',
         phone: '555-412-1224'
     },
@@ -56,4 +56,6 @@ const clients = [
         email: 'rajan@kanthdo.com',
         phone: '555-362-5234'
     }
-]
+];
+
+module.exports= {projects, clients}

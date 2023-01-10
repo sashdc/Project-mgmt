@@ -55,7 +55,7 @@ if (name === "" || email === "" || phone === "") {
           <div className="modal-content">
             <div className="modal-header">
               <h1 className="modal-title fs-5" id="addClientModalLabel">
-                Add Client{" "}
+                Add Client
               </h1>
               <button
                 type="button"
